@@ -13,12 +13,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd Candidate in Econonomics
+role: Ph.D. student in Econonomics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Connecticut
-    url: 
+    url: https://uconn.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -27,7 +27,7 @@ profiles:
     url: 'feifan.wang@uconn.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/few22005
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
@@ -38,7 +38,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in 
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
