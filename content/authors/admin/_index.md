@@ -36,9 +36,9 @@ profiles:
     url: https://github.com/few22005
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Financial Econometrics
+  - Applied Econometrics
+  
 
 education:
   - area: PhD Artificial Intelligence
