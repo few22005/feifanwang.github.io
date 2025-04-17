@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/few22005
   - icon: academicons/google-scholar
-    url: 
+    url: https://github.com/few22005
 
 interests:
   - Artificial Intelligence
