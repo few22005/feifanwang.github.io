@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Feifan  Wang
+title: Feifan Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Feifan Wang
