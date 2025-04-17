@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
         background:
-        color: white
+          color: white
           filters:
             brightness: 1.0
           size: cover
