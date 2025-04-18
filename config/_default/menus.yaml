@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: News
     url: /#news
-    weight: 13
+    weight: 11
   - name: Research
     url: /#papers
-    weight: 11
+    weight: 13
   - name: Teaching
     url: teaching/
-    weight: 40
+    weight: 15
