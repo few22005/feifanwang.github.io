@@ -56,4 +56,4 @@ security:
 sitemap:
   _merge: deep
 params:
-  favicon: "media/favicon.png"
+  favicon: "assets/media/icons/favicon.png"
