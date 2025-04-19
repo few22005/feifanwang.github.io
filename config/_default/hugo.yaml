@@ -58,8 +58,7 @@ sitemap:
   _merge: deep
 params:
   favicon: "media/favicon.png"
-  
-theme: hugo-blox-builder
+
 
 module:
   imports:
