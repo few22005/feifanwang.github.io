@@ -1,6 +1,4 @@
 ---
-avatar: avatar.jpg
-
 # Display name
 title: Feifan Wang
 
