@@ -59,7 +59,7 @@ features:
   privacy_pack:
     enable: false
 
-favicon: "media/favicon.png"
+favicon: "favicon.png"
 
 # Custom CSS to style avatar
 custom_css:
