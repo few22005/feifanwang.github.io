@@ -2,6 +2,8 @@
 # Display name
 title: Feifan Wang
 
+name_pronunciation: ""
+
 # Full name (for SEO)
 first_name: Feifan
 last_name: Wang
