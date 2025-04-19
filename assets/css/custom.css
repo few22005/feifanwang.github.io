@@ -1,1 +1,8 @@
+/* Make the avatar larger and square */
+.avatar {
+  width: 180px !important;
+  height: 180px !important;
+  object-fit: cover;
+  border-radius: 0 !important; /* Use 50% if you want a circle */
+}
 
