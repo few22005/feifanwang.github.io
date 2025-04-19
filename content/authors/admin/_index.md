@@ -40,7 +40,7 @@ interests:
   - Time series analysis and forecasting
   - Bootstrap methods and resampling techniques
   
-
+---
 ## About Me
 
 I am a Ph.D. student in Economics at the University of Connecticut, specializing in financial econometrics, time series forecasting, and bootstrap methods. My current research focuses on developing robust inference techniques for high-dimensional predictive models, particularly in the context of bond markets and factor-augmented regressions. I hold an M.A. in Economics of International Business from Nanjing University and a B.A. in Finance from Nanjing University of Finance and Economics, where I graduated as an Excellent Graduate. I also serve as a teaching assistant in various undergraduate and graduate courses, and have research experience with several funded projects. 
