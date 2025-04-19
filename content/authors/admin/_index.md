@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate in Economics
+role: Ph.D. Student in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
