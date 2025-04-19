@@ -4,9 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Feifan Wang
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://few22005.github.io/"
+
+
 
 ############################
 ## LANGUAGE
@@ -54,3 +56,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  favicon: "media/favicon.png"
