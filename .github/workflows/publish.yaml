@@ -42,9 +42,14 @@ jobs:
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
         restore-keys: |
           ${{ runner.os }}-hugomod-
+
+    - name: Download Hugo Modules
+      run: hugo mod tidy
+      
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
+
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
