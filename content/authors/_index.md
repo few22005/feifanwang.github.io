@@ -1,9 +1,5 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+title: "Home"
 ---
+
+Welcome to my academic website! I am a Ph.D. student in Economics at the University of Connecticut. Please explore my research, CV, and teaching portfolio using the menu above.
