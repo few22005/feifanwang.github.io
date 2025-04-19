@@ -16,3 +16,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 15
+- name: CV
+    url: CV/
+    weight: 17
