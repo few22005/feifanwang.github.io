@@ -2,7 +2,7 @@
 # Display name
 title: Feifan Wang
 
-name_pronunciation: ""
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Feifan
