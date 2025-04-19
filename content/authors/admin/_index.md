@@ -23,7 +23,10 @@ role: Ph.D. Student in Economics
 organizations:
   - name: Department of Economics, University of Connecticut
     url: https://econ.uconn.edu/
-
+# Avatar config for Hugo Blox
+avatar:
+  filename: avatar.jpg
+  
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
