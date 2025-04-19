@@ -3,13 +3,6 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-module:
-  imports:
-    - path: github.com/HugoBlox/hugo-blox-builder
-
-theme: hugo-blox-builder
-
-
 # Website name
 title: Feifan Wang
 # Website URL
@@ -65,3 +58,9 @@ sitemap:
   _merge: deep
 params:
   favicon: "media/favicon.png"
+  
+theme: hugo-blox-builder
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder
