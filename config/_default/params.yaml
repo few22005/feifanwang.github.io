@@ -60,3 +60,7 @@ features:
     enable: false
 
 favicon: "media/favicon.png"
+
+# Custom CSS to style avatar
+custom_css:
+  - css/custom.css
