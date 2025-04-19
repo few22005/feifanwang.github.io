@@ -2,6 +2,8 @@
 # Display name
 title: Feifan Wang
 
+layout: "home"
+
 # Name pronunciation (optional)
 name_pronunciation: ""
 
