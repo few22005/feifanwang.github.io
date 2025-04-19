@@ -2,6 +2,7 @@
 # Display name
 title: Feifan Wang
 
+# Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
