@@ -24,7 +24,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'feifan.wang@uconn.edu'
+    url: mailto:feifan.wang@uconn.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/few22005
