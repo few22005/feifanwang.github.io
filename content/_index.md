@@ -2,7 +2,8 @@
 # Leave the homepage title empty to use the site title
 title: ""
 date: 2025-04-17
-type: landing
+# type: landing
+
 
 design:
   spacing: "6rem"
